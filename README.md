@@ -1,2 +1,2 @@
 # sentineltpirdepth
-Threat Protection and Incident Response with MS Sentinel - Depth workshop
+Deploying & Optimizing Microsoft Sentinel	- Depth workshop
